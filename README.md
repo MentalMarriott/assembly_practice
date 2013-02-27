@@ -1,4 +1,4 @@
-assembly_practice
-=================
+Count Ones
+==========
 
-programs written in assembly
+A simple .asm(assembly) program that counts the number of binary 1's in a number
